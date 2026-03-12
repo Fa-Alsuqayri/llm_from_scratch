@@ -1,5 +1,6 @@
 # Build GPT from Scratch: Saudi History & Dialect Model
 **Colab notebook with output:** https://colab.research.google.com/drive/1iKeJjP7pI83b6mcTWkNrUe-JDyaYTyeP?usp=sharing
+
 **Author:** Faisal Alsuqayri 
 
 ## Project Overview
